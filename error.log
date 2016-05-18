@@ -1,0 +1,32 @@
+blog.sh: line 80: $'\nUSE blog_app;\nSELECT cat_id FROM category WHERE cat_name=\'cs\';\n;\n': command not found
+ERROR 1064 (42000) at line 4: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'EXIT' at line 1
+ERROR 1064 (42000) at line 5: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'EXIT' at line 1
+ERROR 1064 (42000) at line 3: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(title,content,category_id) VALUES ('Hello BASH','cs','Checking for category....' at line 1
+ERROR 1064 (42000) at line 4: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'EXIT' at line 1
+ERROR 1064 (42000) at line 5: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'EXIT' at line 1
+ERROR 1064 (42000) at line 3: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(title,content,category_id) VALUES ('Hello BASH','linux','10' 		    )' at line 1
+ERROR 1064 (42000) at line 4: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'EXIT' at line 1
+ERROR 1064 (42000) at line 5: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'EXIT' at line 1
+ERROR 1064 (42000) at line 3: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(title,content,category_id) VALUES ('Hello BASH','ubuntu',11 		    )' at line 1
+ERROR 1064 (42000) at line 4: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'EXIT' at line 1
+ERROR 1064 (42000) at line 3: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(title,content,category_id) VALUES ('Hello BASH','Welcome to the BASH',11 		    ' at line 1
+ERROR 1064 (42000) at line 4: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'EXIT' at line 1
+ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+ERROR 1064 (42000) at line 4: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'EXIT' at line 1
+ERROR 1064 (42000) at line 3: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(title,content,category_id) VALUES ('Hello BASH','Welcome to the BASH',)' at line 1
+ERROR 1064 (42000) at line 4: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'EXIT' at line 1
+ERROR 1064 (42000) at line 3: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(title,content,category_id) VALUES ('Hello BASH','Welcome to the BASH',)' at line 1
+ERROR 1064 (42000) at line 4: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'EXIT' at line 1
+ERROR 1064 (42000) at line 3: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(title,content,category_id) VALUES ('Hello BASH','Welcome to the BASH','11')' at line 1
+ERROR 1064 (42000) at line 4: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'EXIT' at line 1
+ERROR 1064 (42000) at line 5: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'EXIT' at line 1
+ERROR 1064 (42000) at line 4: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'EXIT' at line 1
+ERROR 1064 (42000) at line 5: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'EXIT' at line 1
+ERROR 1064 (42000) at line 4: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'EXIT' at line 1
+ERROR 1064 (42000) at line 4: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'EXIT' at line 1
+ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+Mon, 16 May 2016 17:22:29 -0400 : Blog Listing Failed
+ERROR 1064 (42000) at line 4: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'EXIT' at line 1
+ERROR 1064 (42000) at line 5: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'EXIT' at line 1
+ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+Mon, 16 May 2016 17:23:15 -0400 : Blog Listing Failed
